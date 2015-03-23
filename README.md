@@ -1,4 +1,4 @@
-tripping-octo-avenger
+First Repository/Daily Proverbs Android Application
 =====================
 
 First repo!
